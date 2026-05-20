@@ -6,7 +6,7 @@ A script that checks when a windows 2-in-1 laptop fold up into tablet mode and t
 
 ## Author
 
-- [Brend Vanhooren (A.K.A. Ratsmacker9)](https://github.com/Ratsmacker9)
+- [Brend Vanhooren](https://github.com/Brend-Vanhooren)
 
 
 ## Documentation
